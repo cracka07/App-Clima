@@ -1,0 +1,20 @@
+.date_local{
+    position:absolute;
+    font-size: 19px;
+   left:66rem;
+   top:5px;
+   color:white;
+   font-family: sans-serif;
+   font-weight: bold;
+   
+}
+.date_local p{
+    margin-left:0.5rem;
+    font-weight: bold;
+    color:white
+}
+.date_box{
+    display: flex;
+    justify-content: flex-start;
+
+}

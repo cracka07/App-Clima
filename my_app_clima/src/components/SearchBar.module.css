@@ -1,0 +1,52 @@
+.buscador_btn{
+
+   
+    background-color:transparent;
+   
+    height: 3.8rem;
+    
+   
+}
+.buscador_btn form{
+   
+    
+}
+
+.foto{
+  
+}
+.buscador_btn figcaption{
+    color:black;
+    position:absolute;
+   
+}
+.box_seacBar_input{
+    display:flex;
+    justify-content:center;
+    padding-top: 25px;
+}
+
+.input_text{
+    width: 25rem;
+    border-radius: 5px;
+    
+    border:3px solid gray;
+}
+.input_text:active{
+    border:3px solid rgb(5, 112, 5)
+}
+.input_btn{
+    margin-left:5px;
+    width: 6rem;
+    height: 2.1rem;
+    border-radius: 5px;
+    background-color: rgb(11, 11, 11);
+   
+  
+    color:white;
+}
+.input_btn:hover{
+    background-color: rgb(25, 80, 148);
+    transition-duration: 1s;
+    -webkit-box-shadow: 2px 2px 5px rgb(14, 55, 190);
+}

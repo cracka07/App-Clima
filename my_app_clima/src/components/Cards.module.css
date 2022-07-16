@@ -1,0 +1,11 @@
+.box_city{
+    
+    display:flex;
+   
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+    
+   

@@ -1,0 +1,124 @@
+
+.card_modul{
+   margin-right: 1.3rem;
+   margin-left:0;
+   border:2px solid aqua; 
+   border-radius: 35px;
+   -webkit-box-shadow: 10px 10px 10px rgb(0, 0, 0);
+   -moz-box-shadow: 2px 2px 5px rgb(0, 0, 0);
+   margin-top: 3rem;
+   height: 12rem;
+   width: 18rem;
+  background: linear-gradient(aqua,blue);
+ 
+}
+
+
+.card_btn_delete{
+   border-radius: 10px;
+ 
+   margin-left:10rem;
+   margin-top: -0.8rem;
+   background-color: red;
+   cursor: pointer;
+   width: 40px;
+   height: 22px;
+   
+   
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+.card_btn_delete:hover{
+   width: 5rem;
+   height: 1.3rem;
+   transition-duration: 0.5s;
+}
+.card_modul img{
+   margin-left: 10.5rem;
+   margin-top:-35px;
+  
+}
+.name_city{
+   
+   /* position:absolute; */
+   margin-left: 3.9rem;
+   /* top:7.5rem; */
+
+   margin-top:1rem;
+   font-weight: bold;
+   font-size: 22px;
+   font-family: 'Courier New', Courier, monospace;
+  
+}
+.temperatura_mx{
+    position:absolute; 
+  
+   top: 13rem;
+   padding-left: 20px;
+   
+  
+   font-family: 'Courier New', Courier, monospace;  
+}
+.temperatura_mx span{
+   font-weight: bold;
+   font-size: 20px;
+  font-weight: bold;
+   display: flex;
+   margin-top: -15px;
+
+ 
+}
+.temperatura_mn{
+   top: 13rem;
+    position:absolute;
+
+    padding-left: 5rem;
+   font-family: 'Courier New', Courier, monospace;  
+
+}
+  
+
+.temperatura_mn span{
+   font-weight: bold;
+   font-size: 20px;
+   font-weight: bold;
+   display: flex;
+   margin-top: -14px;
+   
+ 
+}
+/* .detail{
+  
+   margin-top: 2.5rem;
+   margin-right: 2rem;
+   margin-left: -8rem;
+} */
+/* .detail button{
+   width: 13rem;
+   font-family:'Times New Roman', Times, serif;
+}
+.detail button:hover{
+   background-color: rgb(20, 255, 243);
+}
+*/
+.card_btn_detail {
+   padding-right: 10rem;
+   
+}  
+.boton_detalle{
+   margin: -1.9px;
+   width:361px; 
+   height:57px;
+   background: blanchedalmond;
+   border-top:solid;
+   border-top-color:white;
+   border-top-left-radius: 20%;
+   border-top-right-radius: 20%;
+   font-size: 18px;
+   font-weight: bold;
+    
+}
+.boton_detalle:hover{
+   background-color: white;
+}
